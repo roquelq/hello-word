@@ -6,4 +6,4 @@ este repositorio es para practicar el flujo de fatos que existe en GitHub
 
 *RAMA_2*
 **RAMA_2 **
-[google](www.google.com.py)
+[google] (www.google.com.py)
